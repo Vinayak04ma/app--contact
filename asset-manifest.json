@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vinayak04ma/app--contact/static/css/main.dc4d6ff2.css",
+    "main.js": "/Vinayak04ma/app--contact/static/js/main.317f4a27.js",
+    "index.html": "/Vinayak04ma/app--contact/index.html",
+    "main.dc4d6ff2.css.map": "/Vinayak04ma/app--contact/static/css/main.dc4d6ff2.css.map",
+    "main.317f4a27.js.map": "/Vinayak04ma/app--contact/static/js/main.317f4a27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.317f4a27.js"
+  ]
+}
